@@ -35,11 +35,11 @@ namespace ConsoleApp1
 
             //Console.WriteLine("Key phrases:");
 
-            //foreach (string keyphrase in result.KeyPhrases)
-            //{
+            foreach (string keyphrase in result.KeyPhrases)
+            {
             //    Console.WriteLine($"\t{keyphrase}");
-            //    array.Add(keyphrase);
-            //}
+                array.Add(keyphrase);
+            }
         }
     }
 }

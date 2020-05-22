@@ -31,5 +31,10 @@ namespace ConsoleApp1
             total += (double) result.Score;
             Console.WriteLine($"Sentiment Score: {result.Score:0.00}");
         }
+
+        internal object Analyze(object endpoint, object key, string sentence)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
