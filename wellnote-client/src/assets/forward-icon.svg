@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" viewBox="0 0 51 51">
+  <g id="Group_437" data-name="Group 437" transform="translate(-1468.506 -285)">
+    <circle id="Ellipse" cx="25.5" cy="25.5" r="25.5" transform="translate(1468.506 285)" fill="#9fa3a7"/>
+    <rect id="Op_component_1" data-name="Op component 1" width="23" height="2" rx="1" transform="translate(1483.506 309)" fill="#fff"/>
+    <path id="Op_component_2" data-name="Op component 2" d="M1003.731,110.284l7.952,7.952a1.022,1.022,0,0,1-1.446,1.446l-7.952-7.952a1.022,1.022,0,0,1,1.446-1.446Z" transform="translate(494.506 191)" fill="#fff"/>
+    <path id="Op_component_3" data-name="Op component 3" d="M1003.731,127.713l7.952-7.951a1.022,1.022,0,0,0-1.446-1.446l-7.952,7.952a1.022,1.022,0,0,0,1.446,1.444Z" transform="translate(494.506 191)" fill="#fff"/>
+  </g>
+</svg>

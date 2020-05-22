@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="387" viewBox="0 0 60 387">
+  <g id="Group_434" data-name="Group 434" transform="translate(-7193 -1701)">
+    <rect id="XMLID_49_" width="32" height="151" stroke-width="8" transform="translate(7206 1764)" stroke="#0a7362" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="#0a7362"/>
+    <path id="XMLID_48_" d="M329.4,620H296.9a367.726,367.726,0,0,1,0-68h32.5A367.726,367.726,0,0,1,329.4,620Z" transform="translate(6909 1397)" fill="#0a7362" stroke="#0a7362" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="8"/>
+    <path id="XMLID_47_" d="M329.4,552H296.9c6.7-10,6.7-23,0-34h32.5C322.7,529,322.7,542,329.4,552Z" transform="translate(6909 1397)" fill="#0a7362" stroke="#0a7362" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="8"/>
+    <path id="XMLID_46_" d="M317.3,667c5.4-16,11.9-31,12.1-47H296.9c.2,16,6.7,31,12.1,47Z" transform="translate(6909 1397)" fill="#0a7362" stroke="#0a7362" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="8"/>
+    <rect id="XMLID_45_" width="8" height="6" stroke-width="8" transform="translate(7218 2064)" stroke="#0a7362" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="#0a7362"/>
+    <line id="XMLID_44_" y2="13" stroke-width="8" transform="translate(7222 2071)" stroke="#0a7362" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <rect id="XMLID_43_" width="24" height="22" stroke-width="8" transform="translate(7210 1742)" stroke="#0a7362" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="#0a7362"/>
+    <path id="XMLID_42_" d="M322,345H304V319.3a6.626,6.626,0,0,1,6.7-6.3h5a6.274,6.274,0,0,1,6.3,6.3Z" transform="translate(6909 1397)" fill="#0a7362" stroke="#0a7362" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="8"/>
+    <rect id="XMLID_41_" width="31" height="18" stroke-width="8" transform="translate(7218 1778)" stroke="#0a7362" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="#0a7362"/>
+    <path id="XMLID_24_" d="M322.4,547H289.9c6.7-10,6.7-23,0-34h32.5C315.7,524,315.7,537,322.4,547Z" transform="translate(6909 1397)" fill="#102d3b"/>
+    <rect id="XMLID_22_" width="32" height="151" transform="translate(7199 1759)" fill="#526066"/>
+    <rect id="XMLID_32_" width="32" height="151" transform="translate(7199 1759)" fill="#526066"/>
+    <rect id="XMLID_33_" width="10" height="151" transform="translate(7199 1759)" fill="#526066" opacity="0.64"/>
+    <rect id="XMLID_35_" width="9" height="151" transform="translate(7222 1759)" fill="#526066" opacity="0.3"/>
+    <rect id="XMLID_6_" width="32" height="151" stroke-width="8" transform="translate(7199 1759)" stroke="#102d3b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <path id="XMLID_23_" d="M322.4,615H289.9a367.726,367.726,0,0,1,0-68h32.5A367.726,367.726,0,0,1,322.4,615Z" transform="translate(6909 1397)" fill="#42708a"/>
+    <path id="XMLID_25_" d="M322.4,615H289.9a367.726,367.726,0,0,1,0-68h32.5A367.726,367.726,0,0,1,322.4,615Z" transform="translate(6909 1397)" fill="#526066"/>
+    <path id="XMLID_59_" d="M322.4,547h-7.8a367.726,367.726,0,0,1,0,68h7.8A367.726,367.726,0,0,0,322.4,547Z" transform="translate(6909 1397)" fill="#526066" opacity="0.3"/>
+    <path id="XMLID_37_" d="M301.4,614h-4.7a365.551,365.551,0,0,1-.1-67h4.8A374.789,374.789,0,0,0,301.4,614Z" transform="translate(6909 1397)" fill="#ccdde5" opacity="0.73"/>
+    <path id="XMLID_10_" d="M322.4,615H289.9a367.726,367.726,0,0,1,0-68h32.5A367.726,367.726,0,0,1,322.4,615Z" transform="translate(6909 1397)" fill="none" stroke="#102d3b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="8"/>
+    <rect id="XMLID_8_" width="36" height="21" stroke-width="8" transform="translate(7197 1968)" stroke="#102d3b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <path id="XMLID_9_" d="M322.4,547H289.9c6.7-10,6.7-23,0-34h32.5C315.7,524,315.7,537,322.4,547Z" transform="translate(6909 1397)" fill="none" stroke="#102d3b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="8"/>
+    <path id="XMLID_26_" d="M310.3,662c5.4-16,11.9-31,12.1-47H289.9c.2,16,6.7,31,12.1,47Z" transform="translate(6909 1397)" fill="#ccdde5"/>
+    <path id="XMLID_39_" d="M322.4,615v1H301c.1,15.7,2.9,30.7,6.2,46H302c-5.4-16-11.9-31-12.1-47Z" transform="translate(6909 1397)" fill="#fff"/>
+    <path id="XMLID_14_" d="M310.3,662c5.4-16,11.9-31,12.1-47H289.9c.2,16,6.7,31,12.1,47Z" transform="translate(6909 1397)" fill="none" stroke="#102d3b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="8"/>
+    <rect id="XMLID_11_" width="8" height="6" stroke-width="8" transform="translate(7211 2059)" stroke="#102d3b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <line id="XMLID_13_" y2="13" stroke-width="8" transform="translate(7215 2066)" stroke="#102d3b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <rect id="XMLID_12_" width="24" height="22" stroke-width="8" transform="translate(7203 1737)" stroke="#102d3b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <rect id="XMLID_29_" width="24" height="22" transform="translate(7203 1737)" fill="#102d3b"/>
+    <path id="XMLID_30_" d="M315,340H297V314.3a6.626,6.626,0,0,1,6.7-6.3h5a6.274,6.274,0,0,1,6.3,6.3Z" transform="translate(6909 1397)" fill="#ccdde5"/>
+    <path id="XMLID_16_" d="M315,340H297V314.3a6.626,6.626,0,0,1,6.7-6.3h5a6.274,6.274,0,0,1,6.3,6.3Z" transform="translate(6909 1397)" fill="none" stroke="#102d3b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="8"/>
+    <rect id="XMLID_27_" width="31" height="18" transform="translate(7211 1773)" fill="#ccdde5"/>
+    <rect id="XMLID_15_" width="31" height="18" stroke-width="8" transform="translate(7211 1773)" stroke="#102d3b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+    <path id="XMLID_28_" d="M333,455.3l-11-14.5V394h11Z" transform="translate(6909 1397)" fill="#ccdde5"/>
+    <path id="XMLID_17_" d="M333,455.3l-11-14.5V394h11Z" transform="translate(6909 1397)" fill="none" stroke="#102d3b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="8"/>
+  </g>
+</svg>
